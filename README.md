@@ -1,45 +1,24 @@
-# jekyll-uno
+# startpage
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+## Description
+This is a simple startpage for my Arch Linux workstation at home.<br>
+The used image in my source code is from https://www.reddit.com/r/unixporn/comments/5qsn18/gnome_material_desktop/.<br>
+If you want to change the background just go into my stylesheet (/css/stylesheet.css) and change the url under body.<br>
+This page supports up to 21:9 and a resolution of 3440x1440.<br>
 
-> :warning:
-  This theme requires ruby and rubygems installed
+## Screenshots
+![](images/screenshot_firewatch.png)
 
-### Features
+## Dependencies
+You just need a modern browser which support javascript.<br>
+<br>
+This page was tested on:
+* Firefox
+* Google Chrome
+* Opera
+* Opera Neon
+* Vivaldi
+* Microsoft Edge
 
-* Clean layout
-* Resposive layout
-* Pagination
-* Syntax highlighting
-* Social links
-* Tags listing page
-* Categories listing page
-* Google Analytics integration
-* Disqus integration
-
----
-
-### Install and Test
-
-1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
-2. Enter the folder: `cd jekyll-uno/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
-
-Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
-
----
-
-### Demo and Download
-
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
-
-![jekyll-uno - free Jekyll theme](/screenshot.png)
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
+## Feedback
+I hope you like my work so it would be great if you write a comment under my reddit post [https://www.reddit.com/r/startpages/comments/65ows6/my_arch_linux_console_startpage/].
